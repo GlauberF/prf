@@ -1,0 +1,1 @@
+This is the frontend of Super Store Finder, slick and responsive design powered by bootstrap. Map nodes loads fast using json.

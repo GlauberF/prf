@@ -1,0 +1,1 @@
+A page where you can add stores. Upload thumbnail stores and also user friendly map that will pin point your latitude / longitude upon entering address.

@@ -1,0 +1,1 @@
+Administration area where you can view and manage list of stores by editing or deleting them.

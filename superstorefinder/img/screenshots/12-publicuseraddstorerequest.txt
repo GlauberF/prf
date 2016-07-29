@@ -1,0 +1,1 @@
+Public user can request to add store, but it will require admin approval.

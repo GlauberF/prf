@@ -1,0 +1,1 @@
+With Geo IP it will detect your user / client location and will pin point stores near them.

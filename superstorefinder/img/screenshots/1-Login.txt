@@ -1,0 +1,1 @@
+Secured Administration Area. Admin users can be added via mysql database users table.

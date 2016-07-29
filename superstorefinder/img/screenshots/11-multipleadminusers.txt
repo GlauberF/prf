@@ -1,0 +1,1 @@
+You can have multiple admin users to manage your stores.
